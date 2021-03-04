@@ -1,0 +1,26 @@
+.container{
+    height: 150px;
+    width: 150px;
+    margin: auto;
+    margin-top: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.grid{
+    background-color:rgb(214, 224, 219);
+    border: groove 2px black;
+    height: 80px;
+    width: 80px;
+    cursor: pointer;
+    outline: 1px solid lightslategray;
+}
+
+h1,h2{
+    text-align: center;
+    margin-top: 40px;
+}
+button{
+    margin-left: 48%;
+    background-color: lightgray;
+}
